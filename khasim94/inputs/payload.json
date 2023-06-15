@@ -1,0 +1,6 @@
+{
+    "data": {
+        "keys":["firstname","lastname","aadhar"],
+        "values":["khasim","shaik","1234-4567-6789"]
+    }
+}
